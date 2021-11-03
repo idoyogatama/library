@@ -1,2 +1,2 @@
 # library
-Source Code Android Library dengan jitpack.io
+Example Library Android For Make Log.i
